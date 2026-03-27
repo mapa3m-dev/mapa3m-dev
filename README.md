@@ -53,7 +53,7 @@ DIAGNOSTICS
        design_skills: segmentation fault (core dumped)
 
 SEE ALSO
-       https://t.me/mapa3m
+       https://t.me/rmapa3m
        https://github.com/mapa3m-dev
 
 MAPA3M(7)                       source: github                     MAPA3M(7)
